@@ -1,38 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\source\\repos\\webapplication2\\webapplication2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\exceptions\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\exceptions\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\source\\repos\\webapplication2\\webapplication2\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\exceptions\\exceptionobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\exceptions\\exceptionobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\exceptions\\exceptiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\exceptions\\exceptiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\source\\repos\\webapplication2\\webapplication2\\model\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\model\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\source\\repos\\webapplication2\\webapplication2\\model\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\model\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\source\\repos\\webapplication2\\webapplication2\\model\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\model\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\model\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20240817190604_mv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication2\\Migrations\\20240817190604_mv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrishabh\\desktop\\dotnet\\demo2\\dotnetapi\\webapplication2\\migrations\\20240817190604_mv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773AFEAC-1F65-4FE1-983C-8A8B0AB42AAE}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20240817190604_mv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,107 +62,150 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Model\\Dtos\\UpdateDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Model\\Dtos\\UpdateDto.cs",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Model\\Dtos\\UpdateDto.cs",
-              "RelativeToolTip": "WebApplication2\\Model\\Dtos\\UpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "ExceptionObjects.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\ExceptionObjects.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Exceptions\\ExceptionObjects.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\ExceptionObjects.cs",
+              "RelativeToolTip": "WebApplication2\\Exceptions\\ExceptionObjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:21:44.284Z",
+              "WhenOpened": "2024-08-27T19:10:47.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
-              "RelativeToolTip": "WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "DocumentIndex": 3,
+              "Title": "ExceptionDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\ExceptionDetails.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Exceptions\\ExceptionDetails.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\ExceptionDetails.cs",
+              "RelativeToolTip": "WebApplication2\\Exceptions\\ExceptionDetails.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:12:28.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T18:39:44.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAkwFwAAAAAAAAA",
+              "Title": "GlobalExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Exceptions\\GlobalExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "WebApplication2\\Exceptions\\GlobalExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:06:39.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDb.cs",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Data\\ApplicationDb.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Data\\ApplicationDb.cs",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Data\\ApplicationDb.cs",
-              "RelativeToolTip": "WebApplication2\\Data\\ApplicationDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:53:12.11Z",
+              "WhenOpened": "2024-08-27T14:27:25.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Program.cs",
               "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T18:56:26.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240817190604_mv1.cs",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20240817190604_mv1.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240817190604_mv1.cs",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Migrations\\20240817190604_mv1.cs",
-              "RelativeToolTip": "WebApplication2\\Migrations\\20240817190604_mv1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:06:05.304Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T19:01:42.837Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Model\\Entities\\Employees.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Model\\Entities\\Employees.cs",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\Model\\Entities\\Employees.cs",
-              "RelativeToolTip": "WebApplication2\\Model\\Entities\\Employees.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Exceptions\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "WebApplication2\\Exceptions\\EmployeeNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T18:54:41.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T14:28:23.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAUwBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:06:39.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:12:28.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Model\\Dtos\\UpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\Dtos\\UpdateDto.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Model\\Dtos\\UpdateDto.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\Dtos\\UpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:21:44.284Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeToolTip": "WebApplication2\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-17T19:01:42.837Z",
-              "EditorCaption": ""
+              "Title": "ApplicationDb.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Data\\ApplicationDb.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\ApplicationDb.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Data\\ApplicationDb.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\ApplicationDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:12.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240817190604_mv1.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Migrations\\20240817190604_mv1.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20240817190604_mv1.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Migrations\\20240817190604_mv1.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20240817190604_mv1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:06:05.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Model\\Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Model\\Entities\\Employees.cs",
+              "ToolTip": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\Model\\Entities\\Employees.cs",
+              "RelativeToolTip": "WebApplication2\\Model\\Entities\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:54:41.832Z"
             }
           ]
         }

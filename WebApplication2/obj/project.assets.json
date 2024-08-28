@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\Hrishabh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hrishabh\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\Hrishabh\\Desktop\\dotnet\\demo2\\DotNetApi\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hrishabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
